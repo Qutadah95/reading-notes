@@ -18,4 +18,7 @@ Programming can be done using a variety of computer programming languages, such 
 
 now ill talke about  web programming/application development to do web app devl. we use html and css and javascript and paython 
 
-and in html we have code 
+
+
+
+
