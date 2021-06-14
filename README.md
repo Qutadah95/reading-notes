@@ -6,8 +6,8 @@
 
 ##Whats the difference between Fixed and growoth mindset is showen in figure 
 
-!{difference between}(https://i2.wp.com/atlassianblog.wpengine.com/wp-content/uploads/NewGrowthMindset2.png?resize=768%2C960&ssl=1)
 
 
 
 
+![difference between](https://i2.wp.com/atlassianblog.wpengine.com/wp-content/uploads/NewGrowthMindset2.png?resize=768%2C960&ssl=1)
