@@ -49,3 +49,5 @@ If you put a number in quotes, it will be treated as a text string.
 and here we have a picture describe the difference between HTML and CSS and JS from the body of code :
 
 ![difference between HTML and CSS and JS](https://storage.googleapis.com/rqiim-storage/5fd1ccc7a64c9b001c735619.8d2d8ceabd695ddeba7e24f7.png)
+
+fetch firs
