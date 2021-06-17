@@ -9,4 +9,7 @@
 | read02      | [read02](https://qutadah95.github.io/reading-notes/read02)   
 | read03     | [read03](https://qutadah95.github.io/reading-notes/read03)         
 | read04      | [read04](https://qutadah95.github.io/reading-notes/read04)
+| read05     | [read05](https://qutadah95.github.io/reading-notes/read05)         
+| read06      | [read06](https://qutadah95.github.io/reading-notes/read06)
+ 
  
