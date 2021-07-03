@@ -12,5 +12,6 @@
 | read05     | [read05](https://qutadah95.github.io/reading-notes/102/read05)         
 | read06      | [read06](https://qutadah95.github.io/reading-notes/102/read06)
 | read07      | [read07](https://qutadah95.github.io/reading-notes/102/read07) 
+| class-01     | [class-01](https://qutadah95.github.io/reading-notes/201/class-01) 
  
  
