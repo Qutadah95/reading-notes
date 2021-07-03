@@ -4,13 +4,13 @@
 
 | files | files Links
 |-----------------|:-------------
-| Mindset | [mindset](https://qutadah95.github.io/reading-notes/Mindset)  
-| read01     | [read01](https://qutadah95.github.io/reading-notes/read01)         
-| read02      | [read02](https://qutadah95.github.io/reading-notes/read02)   
-| read03     | [read03](https://qutadah95.github.io/reading-notes/read03)         
-| read04      | [read04](https://qutadah95.github.io/reading-notes/read04)
-| read05     | [read05](https://qutadah95.github.io/reading-notes/read05)         
-| read06      | [read06](https://qutadah95.github.io/reading-notes/read06)
-| read07      | [read07](https://qutadah95.github.io/reading-notes/read07)
+| Mindset | [mindset](https://qutadah95.github.io/reading-notes/102/Mindset)  
+| read01     | [read01](https://qutadah95.github.io/reading-notes/102/read01)         
+| read02      | [read02](https://qutadah95.github.io/reading-notes/102/read02)   
+| read03     | [read03](https://qutadah95.github.io/reading-notes/102/read03)         
+| read04      | [read04](https://qutadah95.github.io/reading-notes/102/read04)
+| read05     | [read05](https://qutadah95.github.io/reading-notes/102/read05)         
+| read06      | [read06](https://qutadah95.github.io/reading-notes/102/read06)
+| read07      | [read07](https://qutadah95.github.io/reading-notes/102/read07)
  
  
