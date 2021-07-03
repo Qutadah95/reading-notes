@@ -66,4 +66,8 @@ Calling the function actually performs the specified actions with the indicated 
 
 The control flow is the order in which the computer executes statements in a script.
 
+<<<<<<< HEAD
 Code is run in order from the first line in the file to the last line, unless the computer runs across the (extremely frequent) structures that change the control flow, such as conditionals and loops. 
+=======
+Code is run in order from the first line in the file to the last line, unless the computer runs across the (extremely frequent) structures that change the control flow, such as conditionals and loops. 
+>>>>>>> c5df9fda58b799ed9498605984afe833a14a846f
