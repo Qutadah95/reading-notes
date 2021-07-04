@@ -55,9 +55,7 @@ meaning of acronyms.
   
  ### Line Breaks & Horizontal Rules
   
-     ![HTML](https://c.top4top.io/p_2011sy48x1.png)
-  
-  
+       ![HTMdL](https://c.top4top.io/p_2011sy48x1.png)
 
   
   
