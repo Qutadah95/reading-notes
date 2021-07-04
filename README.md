@@ -2,6 +2,7 @@
 
 # I’m Qutadah Almomani ,I’m 25 years old. I’m mechanical engineer specialising in HVAC . I got graduate from al balqa applied university in 2017 .
 # 102 course
+|-----------------|:------------
 | files | files Links        
 |-----------------|:------------
 | Mindset | [mindset](https://qutadah95.github.io/reading-notes/102/Mindset) 
@@ -15,6 +16,7 @@
 |-----------------|:------------
 
 # 201 course
+|-----------------|:------------
 |file    |  file links           
 |-----------------|:------------
 | class-01     | [class-01](https://qutadah95.github.io/reading-notes/201/class-01) 
