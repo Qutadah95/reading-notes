@@ -16,7 +16,7 @@
 
 
 # 201 course
-|-----------------|:------------
+
 |file    |  file links           
 |-----------------|:------------
 | class-01     | [class-01](https://qutadah95.github.io/reading-notes/201/class-01) 
