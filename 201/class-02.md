@@ -40,22 +40,22 @@ meaning of acronyms.
 <h5>
 <h6>
  
-  ![HTML](https://a.top4top.io/p_2011xhk2p1.png)
+  ![HTML](https://imgur.com/Tb2krvd)
   
   ### paragraphs
   
-  ![HTML](https://g.top4top.io/p_2011b64f21.png)
+  ![HTML](https://imgur.com/tCo17pp)
   
   ### Bold & Italic
-   ![HTML](https://h.top4top.io/p_2011917501.png)
+   ![HTML](https://imgur.com/Jt7ocKf)
   
   ### Superscript & Subscrip
-   ![HTML](https://a.top4top.io/p_2011mm8zw1.png)
+   ![HTML](https://imgur.com/MCkMz5R)
   
   
  ### Line Breaks & Horizontal Rules
   
-       ![HTMdL](https://c.top4top.io/p_2011sy48x1.png)
+       ![HTMdL](https://imgur.com/ScWW3l4)
 
   
   
