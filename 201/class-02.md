@@ -52,10 +52,11 @@ meaning of acronyms.
   ### Superscript & Subscrip
    ![HTML](https://i.ibb.co/MMCjRFk/6.png)
   
-  
  ### Line Breaks & Horizontal Rules
   
        ![HTMdL](https://i.ibb.co/sH7BZwd/7.png)
+ 
+ Qutadah Almomani
 
   
   
