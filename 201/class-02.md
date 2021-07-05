@@ -33,25 +33,20 @@ you have written is a quotation (and who said it), the
 meaning of acronyms.
 
 ### Headings
-<h1>
-<h2>
-<h3>
-<h4>
-<h5>
-<h6>__
+
  
   ![HTML](https://i.ibb.co/GxCK7wL/3.png)
  
  
- __
+
   
-  ### paragraphs____
+  ### paragraphs
  
   
   ![HTML](https://i.ibb.co/4RbThjz/4.png)
- ____
+ 
   
-  ### Bold & Italic____
+  ### Bold & Italic
  
  
    ![HTML](https://i.ibb.co/gWJRM7f/5.png)
