@@ -38,21 +38,20 @@ meaning of acronyms.
 <h3>
 <h4>
 <h5>
-<h6>
-  ///
+<h6>____
+ 
   ![HTML](https://i.ibb.co/GxCK7wL/3.png)
  
-////
  
+ ____
+  
+  ### paragraphs____
  
   
-  ### paragraphs
- 
-  //
   ![HTML](https://i.ibb.co/4RbThjz/4.png)
- 
-  ///
-  ### Bold & Italic
+ ____
+  
+  ### Bold & Italic____
  
  
    ![HTML](https://i.ibb.co/gWJRM7f/5.png)
