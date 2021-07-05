@@ -14,7 +14,7 @@ about the content of that element.
 *  To learn HTML you need to know what tags are
 available for you to use, what they do, and where they
 can go.
-  ![HTML](https://i.ibb.co/GxCK7wL/3.png)
+ 
 #### When creating a web page, you add tags
 (known as markup) to the contents of the
 page. These tags provide extra meaning
@@ -39,18 +39,19 @@ meaning of acronyms.
 <h4>
 <h5>
 <h6>
- ![alt text](https://github.com/[username]/[reponame]/blob/[branch]/image.jpg?raw=true)
+  ///
+  ![HTML](https://i.ibb.co/GxCK7wL/3.png)
  
-
+////
  
  
   
   ### paragraphs
  
-  
+  //
   ![HTML](https://i.ibb.co/4RbThjz/4.png)
  
-  
+  ///
   ### Bold & Italic
  
  
