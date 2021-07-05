@@ -44,18 +44,18 @@ meaning of acronyms.
   
   ### paragraphs
   
-  ![HTML](https://imgur.com/tCo17pp)
+  ![HTML](https://i.ibb.co/4RbThjz/4.png)
   
   ### Bold & Italic
-   ![HTML](https://imgur.com/Jt7ocKf)
+   ![HTML](https://i.ibb.co/gWJRM7f/5.png)
   
   ### Superscript & Subscrip
-   ![HTML](https://imgur.com/MCkMz5R)
+   ![HTML](https://i.ibb.co/MMCjRFk/6.png)
   
   
  ### Line Breaks & Horizontal Rules
   
-       ![HTMdL](https://imgur.com/ScWW3l4)
+       ![HTMdL](https://i.ibb.co/sH7BZwd/7.png)
 
   
   
