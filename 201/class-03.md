@@ -40,34 +40,31 @@ meaning of acronyms.
 <h5>
 <h6>
  
- 
   ![HTML](https://i.ibb.co/GxCK7wL/3.png)
  
  
   
   ### paragraphs
  
-  
-  ![HTML](https://i.ibb.co/4RbThjz/4.png)
+   ![HTML](https://i.ibb.co/4RbThjz/4.png)
  
   
   ### Bold & Italic
  
- 
-   ![HTML](https://i.ibb.co/gWJRM7f/5.png)
+ ![HTML](https://i.ibb.co/gWJRM7f/5.png)
  
  
   
   ### Superscript & Subscrip
  
  
-   ![HTML](https://i.ibb.co/MMCjRFk/6.png)
+![HTML](https://i.ibb.co/MMCjRFk/6.png)
  
   
  ### Line Breaks & Horizontal Rules
  
  
- ![HTMdL](https://i.ibb.co/sH7BZwd/7.png)
+![HTMdL](https://i.ibb.co/sH7BZwd/7.png)
  
  
  
