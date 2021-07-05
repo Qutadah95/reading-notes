@@ -38,12 +38,12 @@ meaning of acronyms.
 <h3>
 <h4>
 <h5>
-<h6>____
+<h6>__
  
   ![HTML](https://i.ibb.co/GxCK7wL/3.png)
  
  
- ____
+ __
   
   ### paragraphs____
  
