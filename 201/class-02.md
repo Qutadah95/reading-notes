@@ -53,7 +53,7 @@ meaning of acronyms.
    ![HTML](https://i.ibb.co/MMCjRFk/6.png)
   
  ### Line Breaks & Horizontal Rules
-  
+   ![HTML](https://i.ibb.co/MMCjRFk/6.png)
        ![HTMdL](https://i.ibb.co/sH7BZwd/7.png)
  
  Qutadah Almomani
