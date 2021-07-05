@@ -40,7 +40,7 @@ meaning of acronyms.
 <h5>
 <h6>
  
-  ![HTML](https://imgur.com/Tb2krvd)
+  ![HTML](https://i.ibb.co/GxCK7wL/3.png)
   
   ### paragraphs
   
