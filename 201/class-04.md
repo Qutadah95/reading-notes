@@ -21,18 +21,29 @@ which page you want to link to using the href attribute
   
   
   ![link](https://j.top4top.io/p_2013a989d1.png)
+    
+ 
+
+  
+  
+ ### Linking to Other Sites
+  
+  
+  ![link](https://h.top4top.io/p_20139vp7d1.png)
   
   
   
-  ### Linking to Other Sites
+ 
+  
+
+    
+
+   
   
   
   
-    ![link](https://h.top4top.io/p_20139vp7d1.png)
+
   
-  
-  
-  ### Relative URLs
   
   can be used when linking to pages within your own
 website. They provide a shorthand way of telling the browser where to
@@ -40,19 +51,20 @@ find your files.
   
   ### Email Links
 
-      ![link](https://l.top4top.io/p_2013ilfbq1.png)
+   ![link](https://l.top4top.io/p_2013ilfbq1.png)
 
   
 
   
-  ### Opening Links in a New Window
+### Opening Links in a New Window
   
-        ![link](https://a.top4top.io/p_20132vedl1.png)
+  ![link](https://user-images.githubusercontent.com/85875347/124625079-299bea80-de86-11eb-8cd6-51b804aeba76.png)
+
 
   
   
 
-Internet Movie Database</a> (opens in new window)
+
   
   ### Key Concepts in Positioning Elements
   
@@ -90,9 +102,12 @@ Examples include:
 specific task. If different parts of a script repeat the same task, you can
 reuse the function (rather than repeating the same set of st atements).
 
+  ![link](https://b.top4top.io/p_201393jte2.png)
 
 
-        ![link](https://b.top4top.io/p_201393jte2.png)
+       
+        
+        
         
         ### calling a function 
         
@@ -103,9 +118,10 @@ reuse the function (rather than repeating the same set of st atements).
        ## sayHello();
        
  ### declare function that needed information 
+   ![link](https://c.top4top.io/p_20133nqdn3.png)
+
  
- 
-        ![link](https://c.top4top.io/p_20133nqdn3.png)
+        
 
 ### call the function 
 
