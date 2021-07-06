@@ -22,3 +22,111 @@
 ![list](https://k.top4top.io/p_20120ptb94.png)
 
 
+## COMPARING TWO EXPRESSIONS
+
+![list](https://g.top4top.io/p_201349e1t1.png)
+![list](https://h.top4top.io/p_2013y95xs2.png)
+
+## logical operator
+1. AND &&
+2. OR ||
+3. NOT !
+
+## * if statement
+if (condition) {
+  //  block of code to be executed if the condition is true
+}
+
+## * if else statement
+
+if (condition)
+
+{
+  //  block of code to be executed if the condition is true
+} 
+
+else
+
+{
+  //  block of code to be executed if the condition is false
+}
+
+## *if else if statement
+
+if (condition)
+
+{
+  //  block of code to be executed if the condition is true
+} 
+
+else if
+
+{
+   //  block of code to be executed if the condition is true
+}
+
+else{
+ //  block of code to be executed if the condition is false
+}
+
+## switch statement
+switch(expression)
+
+{
+
+
+  case x:
+  
+  
+    // code block
+    
+    
+    break;
+    
+    
+  case y:
+  
+  
+    // code block
+    
+    
+    break;
+    
+    
+  default:
+  
+  
+    // code block
+}
+
+
+
+## for loop 
+
+
+for (statement 1; statement 2; statement 3)
+
+{
+  // code block to be executed
+}
+
+## While Loop 
+
+while (condition)
+
+{
+  // code block to be executed
+}
+
+
+
+## do While Loop
+
+do{
+
+
+   statement
+   
+   
+}
+while (condition);
