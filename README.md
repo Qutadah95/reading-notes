@@ -30,6 +30,7 @@
 | class-09     | [class-09](https://qutadah95.github.io/reading-notes/201/class-09)
 | class-10     | [class-10](https://qutadah95.github.io/reading-notes/201/class-10)
 | class-11     | [class-11](https://qutadah95.github.io/reading-notes/201/class-11)
+| class-12     | [class-12](https://qutadah95.github.io/reading-notes/201/class-12)
 
  
 
