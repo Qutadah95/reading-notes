@@ -42,3 +42,4 @@
 |file    |  file links           
 |-----------------|:------------
 | class-01     | [class-01](https://qutadah95.github.io/reading-notes/301/class-01) 
+| class-02     | [class-02](https://qutadah95.github.io/reading-notes/301/class-02) 
