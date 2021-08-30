@@ -51,3 +51,22 @@ The spread operator is commonly used to make shallow copies of JS objects. Using
 ![](img/12.PNG)
 
 
+
+
+### In the video, what is the first step that the developer does to pass functions between components?
+
+passed all object elemant into a new array when the botton clecked to he can change the counter 
+
+### In your own words, what does the increment function do?
+
+<!-- https://medium.com/ -->
+### How can you pass a method from a parent component into a child component?
+
+1. Create a child component and put the below code inside that component.
+2.  Now we will import the child component to our parent component.
+3.  Then inside your parent function create another function to run our desire event and pass the child component to return.
+<!-- https://reactgo.com/ -->
+### How does the child component invoke a method that was passed to it from a parent component?
+
+![](img/13.PNG)
+![](img/14.PNG)
