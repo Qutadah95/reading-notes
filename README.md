@@ -49,4 +49,5 @@
 | class-06     | [class-06](https://qutadah95.github.io/reading-notes/301/class-06) 
 | class-07     | [class-07](https://qutadah95.github.io/reading-notes/301/class-07) 
 | class-08     | [class-08](https://qutadah95.github.io/reading-notes/301/class-08) 
+| class-09     | [class-09](https://qutadah95.github.io/reading-notes/301/class-09) 
 
