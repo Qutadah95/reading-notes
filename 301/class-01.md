@@ -1,3 +1,4 @@
+
 ## component
 
 ### What is a component?
