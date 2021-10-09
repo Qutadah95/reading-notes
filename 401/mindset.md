@@ -27,6 +27,12 @@ the main idea from the power of passion and perseverance is to continue whatever
 
 what i understand from the video is you should stay a way from the seven deadly sins in your personality , and you should follow your own thoughts and believe in your self
 
+
+
+
+
+
+
 > for the Listen to The Drs. Sarah on Impostor Syndrome - Pt 1 and Listen to The Drs. Sarah on Impostor Syndrome - Pt 2 its not working 
  ![](img/mindset.PNG)
 
