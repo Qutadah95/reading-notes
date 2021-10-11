@@ -66,6 +66,7 @@
 |-----------------|:------------
 | mindset     | [mindset](https://qutadah95.github.io/reading-notes/401/mindset) 
 | class-01     | [class-01](https://qutadah95.github.io/reading-notes/401/class-01)
-| class-02     | [class-02](https://qutadah95.github.io/reading-notes/401/class-02)  
+| class-02     | [class-02](https://qutadah95.github.io/reading-notes/401/class-02) 
+| class-03     | [class-03](https://qutadah95.github.io/reading-notes/401/class-03)   
 
 
