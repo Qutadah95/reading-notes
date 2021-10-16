@@ -69,6 +69,7 @@
 | class-02     | [class-02](https://qutadah95.github.io/reading-notes/401/class-02) 
 | class-03     | [class-03](https://qutadah95.github.io/reading-notes/401/class-03) 
 | class-04     | [class-04](https://qutadah95.github.io/reading-notes/401/class-04) 
-| class-05     | [class-05](https://qutadah95.github.io/reading-notes/401/class-05)   
+| class-05     | [class-05](https://qutadah95.github.io/reading-notes/401/class-05)
+| class-06     | [class-06](https://qutadah95.github.io/reading-notes/401/class-06)    
 
 
