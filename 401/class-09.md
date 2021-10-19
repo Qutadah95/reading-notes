@@ -4,7 +4,7 @@
 
 1. Your browser extracts the "scheme"/protocol, host 
 and optional port number, resource path, and query strings that are specified in the form
-<protocol>://<host><:optional port>/<path/to/resource><?query>.
+> <protocol>://<host><:optional port>/<path/to/resource><?query>.
 
 
 2. Now that the browser has the intended hostname for the request, it needs to resolve an IP address1. The browser will then look through its own cache of recently requested URLs, the operating system’s cache of recent queries, your router’s cache, and your DNS cache.
