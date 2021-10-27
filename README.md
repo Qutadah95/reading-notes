@@ -77,4 +77,5 @@
 | class-11     | [class-11](https://qutadah95.github.io/reading-notes/401/class-11)  
 | class-12     | [class-12](https://qutadah95.github.io/reading-notes/401/class-12)      
 | class-13     | [class-13](https://qutadah95.github.io/reading-notes/401/class-13) 
+| class-14     | [class-14](https://qutadah95.github.io/reading-notes/401/class-14) 
 
