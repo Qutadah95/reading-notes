@@ -45,5 +45,5 @@ You can run all the apps on the command line using mvn spring-boot:run or by bui
 
 * Login with GitHub
 
-* 
+
 
