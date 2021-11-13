@@ -82,4 +82,5 @@
 | class-16     | [class-16](https://qutadah95.github.io/reading-notes/401/class-16) 
 | class-17     | [class-17](https://qutadah95.github.io/reading-notes/401/class-17) 
 | class-18     | [class-18](https://qutadah95.github.io/reading-notes/401/class-18) 
+| class-19     | [class-19](https://qutadah95.github.io/reading-notes/401/class-19) 
 
