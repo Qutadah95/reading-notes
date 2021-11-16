@@ -59,7 +59,7 @@ we have two type :
 * many-to-many
 * nested relationships : you might need to query a set of three or more tables that are all related to each other. In that case, you would define nested relationships between the tables.
 
-## Accessing data using Room DAOs 
+
 
 
 
