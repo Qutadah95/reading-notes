@@ -87,4 +87,5 @@
 | class-21     | [class-21](https://qutadah95.github.io/reading-notes/401/class-21)  
 | class-22     | [class-22](https://qutadah95.github.io/reading-notes/401/class-22)  
 | class-23     | [class-23](https://qutadah95.github.io/reading-notes/401/class-23) 
+| class-24     | [class-24](https://qutadah95.github.io/reading-notes/401/class-24) 
 
