@@ -92,5 +92,7 @@
 | class-26     | [class-26](https://qutadah95.github.io/reading-notes/401/class-26) 
 | class-27     | [class-27](https://qutadah95.github.io/reading-notes/401/class-27)
 | class-28     | [class-28](https://qutadah95.github.io/reading-notes/401/class-28)  
+| class-29     | [class-29](https://qutadah95.github.io/reading-notes/401/class-29)  
+
 
 
