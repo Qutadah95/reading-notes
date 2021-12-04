@@ -96,6 +96,7 @@
 | class-30     | [class-30](https://qutadah95.github.io/reading-notes/401/class-30)  
 | class-31     | [class-31](https://qutadah95.github.io/reading-notes/401/class-31)
 | class-32     | [class-32](https://qutadah95.github.io/reading-notes/401/class-32)  
+| class-33     | [class-33](https://qutadah95.github.io/reading-notes/401/class-33)  
 
 
 
